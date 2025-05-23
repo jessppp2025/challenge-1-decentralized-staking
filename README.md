@@ -1,5 +1,9 @@
 # 🏗 Scaffold-ETH 2
 
+## Study Web3 with Scaffold-ETH
+- **Production URL**: [Vercel Website](https://challenge-1-decentralized-staking-btirwxz7q-jessppps-projects.vercel.app)
+- **Contract**: [Sepolia Contract URL](https://sepolia.etherscan.io/address/0x2bD2c791Db84E824B6CeCc9566D82318a6a1e748)
+
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>
